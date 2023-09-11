@@ -1,6 +1,10 @@
 # ByteBazaar-Ecommerce-Store-PHP-MySQL
 An E-Commerce Store selling Computer parts and accessories built with proper implementation of MySQL as a database and PHP as the back-end language as well as Javascript
 
+
+https://github.com/MuhammadAbdullahNaeem1/ByteBazaar-Ecommerce-Store-PHP-MySQL/assets/105659099/1ed4926f-6e40-4b90-9ed5-3e3fd7e21262
+
+
 Spring 2023
 # Introduction
 
